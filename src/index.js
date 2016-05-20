@@ -43,7 +43,7 @@ var Confirm = Dialog.extend({
             buttons.reverse();
         }
 
-        the.Super({
+        Confirm.parent(the, {
             buttons: buttons,
             closeable: false,
             headable: true,
