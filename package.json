@@ -1,6 +1,6 @@
 {
   "name": "blear.ui.confirm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "确认弹出框 UI",
   "scripts": {
     "live": "browser-sync start --config bs-config.js"
